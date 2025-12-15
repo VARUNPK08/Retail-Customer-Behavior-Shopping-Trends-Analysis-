@@ -1,2 +1,2 @@
-# Retail-Customer-Behavior-Shopping-Trends-Analysis-
-Power BI dashboard project analyzing credit card financial data
+# Credit_Card_Financial_Dashboard
+Credit Card Transaction and Customer Dashboard using Power BI
